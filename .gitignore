@@ -1,1 +1,4 @@
 .rvmrc
+*.sublime-project
+*.sublime-workspace
+
